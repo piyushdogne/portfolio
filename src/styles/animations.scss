@@ -1,0 +1,61 @@
+
+@keyframes animateSvg {
+    to {
+      transform: translate(-50%, -10px);
+    }
+  }
+  
+  @keyframes upanddown {
+    to {
+      transform: translateY(-5px);
+    }
+  }
+  
+  @keyframes upupdowndown {
+    to {
+      transform: translateY(-10px);
+    }
+  }
+
+
+
+@keyframes color_change {
+    0% {
+      background-color: rgb(96, 147, 214);
+    }
+  
+    10% {
+      background-color: rgb(133, 147, 207);
+    }
+  
+    20% {
+      background-color: rgb(120, 172, 198);
+    }
+  
+    30% {
+      background-color: rgb(135, 142, 209);
+    }
+  
+    40% {
+      background-color: rgb(120, 164, 209);
+    }
+    50% {
+      background-color: rgb(133, 149, 212);
+    }
+    60% {
+      background-color: rgb(169, 146, 233);
+    }
+    70% {
+      background-color: rgb(156, 162, 184);
+    }
+    80% {
+      background-color: rgb(118, 163, 221);
+    }
+    90% {
+      background-color: rgb(112, 174, 218);
+    }
+    100% {
+      background-color: rgb(96, 147, 214);
+    }
+  }
+  
